@@ -1,0 +1,2 @@
+1. Create new schema ‘project6' and import six SQL Files 2. import ‘database6’ in eclipse
+3. Change your local user and password in DBhelper.java in com.database.group6.util package4. Run TestAdminInterface.java in test file
