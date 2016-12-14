@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;  
   
 public class DBHelper {  
-    public static final String url = "jdbc:mysql://localhost:3306/project6";  
+    public static final String url = "jdbc:mysql://localhost:3306/database6";  
     public static final String name = "com.mysql.jdbc.Driver";  
     public static final String user = "root";  
     public static final String password = "595716"; 
